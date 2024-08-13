@@ -1,3 +1,5 @@
+![task1](https://github.com/user-attachments/assets/f4703bc9-5028-46a6-b591-8630f0917435)
+![task](https://github.com/user-attachments/assets/e753ff35-eb5a-48eb-837a-bda2cff878c8)
 
 This project features a responsive and accessible "Pricing" section, implemented using Bootstrap, with additional customization to support both light and dark mode themes.
 
