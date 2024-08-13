@@ -1,4 +1,4 @@
-Pricing Section
+
 This project features a responsive and accessible "Pricing" section, implemented using Bootstrap, with additional customization to support both light and dark mode themes.
 
 Features
